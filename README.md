@@ -1,6 +1,6 @@
 # JAVA DESKTOP APPLICATION
 
-![APP](https://raw.githubusercontent.com/prod3v3loper/java-desktop-website-app/src/main/resources/images/p3-app.PNG "Application")
+![APP](https://raw.githubusercontent.com/prod3v3loper/java-desktop-website-app/main/src/main/resources/images/p3-app.PNG?token=GHSAT0AAAAAACSRTP633NYHX44TT5I32DZ2ZSMJNPQ "Application")
 
 A simple application that allows you to log in via the database and get to the dashboard. The data can be accessed from your website database but also from elsewhere.
 
