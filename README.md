@@ -22,7 +22,8 @@ Use https://launch4j.sourceforge.net/ to create exe file.
 
 # Alternative
 
-You can use https://start.spring.io/ to create your startup project.
+This project was created with https://netbeans.apache.org/.
+But you can use https://start.spring.io/ to create your startup project if you want.
 
 # Attention
 
