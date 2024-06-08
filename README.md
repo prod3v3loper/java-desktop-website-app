@@ -16,6 +16,14 @@ private static final String USER = "root";
 private static final String PASSWORD = "test";
 ```
 
+# JAR to EXE
+
+Use https://launch4j.sourceforge.net/ to create exe file.
+
+# Alternative
+
+You can use https://start.spring.io/ to create your startup project.
+
 # Attention
 
 This one should not use in a real environment but unfortunately there is also something in real environments.
