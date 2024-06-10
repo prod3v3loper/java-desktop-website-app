@@ -6,6 +6,31 @@ A simple application that allows you to log in via the database and get to the d
 
 Download it and open it with NetBeans, then just click Run and it will open. You can develop it further and add whatever your application needs.
 
+```
+LoginApp/
+├── nbproject/
+│   ├── private/
+│   ├── ...
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── prod3v3loper/
+│   │   │           └── loginapp/
+│   │   │               ├── LoginForm.java
+│   │   │               ├── DashboardFrame.java
+│   │   │               └── DatabaseConnection.java
+│   │   ├── resources/
+│   │       ├── images/
+│   │       │   └── p3.png
+│   │       └── application.properties
+├── target/
+│   ├── ...
+├── .gitignore
+├── pom.xml
+└── README.md
+```
+
 ## DATABASE
 
 Change your database, if you already have a local environment (developer environment) then you can directly use localhost and work and develop with it.
