@@ -32,7 +32,7 @@ This one should not use in a real environment but unfortunately there is also so
 
 # UPDATE
 
-Migrating Spring Boot and Kotlin example.
+Migrating **Spring Boot** and **Kotlin** example.
 
 `pom.xml`
 
